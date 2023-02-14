@@ -1,0 +1,5 @@
+rootProject.name = 'kafka-course'
+include 'kafka-cluster'
+include 'first-task'
+include 'second-task'
+
